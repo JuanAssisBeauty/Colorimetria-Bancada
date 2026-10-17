@@ -1,0 +1,9 @@
+{
+  "name": "Colorimetria de Bancada",
+  "short_name": "Colorimetria",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f7f2eb",
+  "theme_color": "#3d3028",
+  "description": "Calculadora privada de fórmulas de colorimetria com biblioteca local."
+}
